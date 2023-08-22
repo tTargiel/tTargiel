@@ -4,11 +4,10 @@ My name is Tomasz Targiel and I am currently studying Applied Computer Science a
 
 As of late, I am working on my Engineering Thesis 🔭 - __"Analysis of insufficient encryption of wireless keyboard communications: A case study"__, with practical example of both capturing and decrypting the transmission packets using: _self-made software + Raspberry Pi + nRF24L01+ transceiver_.  
 
-I am passionate about using technology to solve problems and make a positive impact in the world. On this profile, you will find a variety of projects that showcase my skills in software development and cybersecurity.  
-
-I am particularly proud of two projects that I have completed recently:  
-- [openSESAME](https://github.com/tTargiel/openSESAME-Password-Manager) - a cross-platform password manager written in C++ with a GUI created in QML. This project allows users to securely store their passwords and other sensitive information thanks to using AES256-ECB encryption.  
+I am particularly proud of the projects in software development, that I have completed recently:  
+- [steganoCracker](https://github.com/tTargiel/steganoCracker) - steganography tool written in Python, with GUI in PyQt6 that is used for writing and reading hidden text to/from the least significant bits of image files. 
 - [FinState](https://github.com/tTargiel/FinState-Budget-Manager) - budget manager created using the MERN stack (MongoDB, Express, React, and Node.js). This project demonstrates my skills in full stack development and allows users to track and manage their personal finances.  
+- [openSESAME](https://github.com/tTargiel/openSESAME-Password-Manager) - a cross-platform password manager written in C++ with a GUI created in QML. This project allows users to securely store their passwords and other sensitive information thanks to using AES256-ECB encryption.  
 
 I have a wide range of interests and I enjoy combining them in my projects. I believe that this allows me to bring a unique perspective and approach to problem solving.  
 
