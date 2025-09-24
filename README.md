@@ -1,10 +1,12 @@
 ### Welcome to my GitHub profile! 👋  
 
-My name is Tomasz Targiel and I am currently studying Applied Computer Science at the University of Wrocław and Cybersecurity at Saarland University.  
+My name is Tomasz Targiel and I am Penetration Tester working with ISEC Sp. z o.o.
 
-As of late, I am working on my Engineering Thesis 🔭 - __"Analysis of insufficient encryption of wireless keyboard communications: A case study"__, with practical example of both capturing and decrypting the transmission packets using: _self-made software + Raspberry Pi + nRF24L01+ transceiver_.  
+My background includes an Engineering degree in Applied Computer Science from the University of Wrocław and a one-year student exchange in Cybersecurity at Universität des Saarlandes. However, my education does not end there. Prior to these fields of study, I earned a Bachelor's degree in Socioeconomics, also at the University of Wrocław.  
 
-I am particularly proud of the projects in software development, that I have completed recently:  
+I have written and successfully defended my Engineering Thesis 🔭 - __"Analysis of insufficient encryption of wireless keyboard communications: A case study"__, with practical example of both capturing and decrypting the transmission packets using: _self-made software + Raspberry Pi + nRF24L01+ transceiver_. If you are interested in software-part of my thesis, please have a look at: [nRF24L01-eavesdropping](https://github.com/tTargiel/nRF24L01-eavesdropping)  
+
+I am particularly proud of the projects in software development, that I have completed:  
 - [steganoCracker](https://github.com/tTargiel/steganoCracker) - steganography tool written in Python, with GUI in PyQt6 that is used for writing and reading hidden text to/from the least significant bits of image files. 
 - [FinState](https://github.com/tTargiel/FinState-Budget-Manager) - budget manager created using the MERN stack (MongoDB, Express, React, and Node.js). This project demonstrates my skills in full stack development and allows users to track and manage their personal finances.  
 - [openSESAME](https://github.com/tTargiel/openSESAME-Password-Manager) - a cross-platform password manager written in C++ with a GUI created in QML. This project allows users to securely store their passwords and other sensitive information thanks to using AES256-ECB encryption.  
